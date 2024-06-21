@@ -1,12 +1,12 @@
 
 # HTML PDF Merger
 
-This project merges multiple HTML files into a single PDF document using Node.js, Express, `pdf-merger-js`, and `multer`.
+This project merges multiple PDF files into a single PDF document using Node.js, Express, `pdf-merger-js`, and `multer`.
 
 ## Features
-- Merge multiple HTML files into one PDF
+- Merge multiple PDF files into one PDF
 - Simple and easy to use
-- Upload HTML files through a web interface
+- Upload PDF files through a web interface
 
 ## Installation
 
