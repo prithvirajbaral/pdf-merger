@@ -13,7 +13,7 @@ This project merges multiple HTML files into a single PDF document using Node.js
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/prithvirajbaral/pdf-merger.git
-   cd html-pdf-merger
+   cd pdf-merger
 
 2. **Install the dependencies:**
    ```sh
